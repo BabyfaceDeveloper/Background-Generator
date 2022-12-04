@@ -1,1 +1,2 @@
-# Background-Generator
+# Background Generator
+> ZTM web development exercise
